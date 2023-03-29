@@ -27,3 +27,7 @@ yarn build
 ## Credits
 
 - 3D model: [Low poly environment](https://sketchfab.com/3d-models/low-poly-environment-2e18c1baa9164093ad2e99e0a904363a) by [BigPo](https://sketchfab.com/BigPo)
+
+## License
+
+[MIT](LICENSE)
